@@ -1,0 +1,77 @@
+// 445
+explorer.exe .
+
+cd ic-project
+dfx new dbank
+cd dbank
+ls -a
+
+- Open Vscode
+dfx start
+dfx deploy
+
+
+
+// 446
+dfx start
+dfx deploy
+dfx canister call dbank topUp
+dfx canister id __Candid_UI
+
+***copy n paste to chrome
+http://127.0.0.1:8000/?canisterId=
+r7inp-6aaaa-aaaaa-aaabq-cai
+
+dfx canister id dbank
+
+
+// 447 - 449
+dfx deploy
+
+
+// 450
+dfx deploy
+
+BODMAS
+B - Brackets
+O - Order of powers or roots
+D - Division
+M - Multipication
+A - Addition
+S - Subtraction
+
+
+
+// 451
+npm install
+dfx start
+dfx deploy
+npm start
+
+****No production canister_ids.json found. Continuing with local***
+[webpack-cli] TypeError:
+webpack --version
+npm install webpack-cli@4.10.0
+webpack --version
+npm start
+
+
+
+// 452
+dfx start
+dfx deploy
+npm start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
